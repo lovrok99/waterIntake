@@ -43,6 +43,9 @@ body {
   height: 30px;
   border: 0;
 }
+.sub-btn:hover {
+  cursor: pointer;
+}
 .res-btn {
   background-color: grey;
   color: antiquewhite;
@@ -50,4 +53,7 @@ body {
   height: 30px;
   border: 0;
   padding: 8px 8px;
+}
+.res-btn:hover {
+  cursor: pointer;
 }
